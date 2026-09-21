@@ -125,7 +125,9 @@ En utmaning var att förstå hur indrag fungerar i Python, särskilt när kod sk
 
 En annan utmaning var formateringen av Excelrapporten. Jag lärde mig hur XlsxWriter kan användas för att skapa tabeller, formatera tal och procent, ändra kolumnbredder, frysa rubrikrader och använda villkorsstyrd formatering.
 
-Jag tycker att slutresultatet blev tydligt och användbart. Rapporten visar både detaljer och en sammanfattning, vilket gör det möjligt att snabbt identifiera ekonomiska avvikelser. Om jag fortsätter utveckla projektet vill jag lägga till mer felhantering och fler analyser över tid.
+Jag tycker att slutresultatet blev tydligt och användbart. Rapporten visar både detaljer och en sammanfattning, vilket gör det möjligt att snabbt identifiera ekonomiska avvikelser. Om jag skulle utveckla projektet vidare skulle jag lägga till tydligare felhantering och möjlighet att analysera utvecklingen över längre tidsperioder.
+
+Jag tycker att mitt arbete motsvarar VG. Programmet fungerar och jag kan förklara hur koden fungerar. Jag har gjort egna val och kan förklara varför jag använde pandas och XlsxWriter. Jag kan också beskriva vad som är bra och vad som kan förbättras.
 
 ## 8. Slutsats
 
